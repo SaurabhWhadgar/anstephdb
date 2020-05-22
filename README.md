@@ -7,4 +7,4 @@ Anopheles stephensi Genome Hub : Genome browser &amp; Database
 <img src="https://github.com/SaurabhWhadgar/anstephdb/blob/master/anstephdb2.png" width="18%"></img>
 <img src="https://github.com/SaurabhWhadgar/anstephdb/blob/master/anstephdb3.png" width="18%"></img> 
 
-![](http://3.93.125.130/tigs/landingpage.png)
+![](http://3.93.125.130/tigs/landing.png)
